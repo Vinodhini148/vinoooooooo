@@ -9,7 +9,7 @@ void main()
   }
   for(i=1;i<=3;i++)
   {
-      if(a[i>max])
+      if(a[i]>max)
       {
           max=a[i];
       }
